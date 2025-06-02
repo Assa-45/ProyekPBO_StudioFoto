@@ -2,7 +2,7 @@ package Model.Operator;
 
 public class ModelOperator {
     private String username, password, nama_lengkap, email;
-    
+    private int id;
     public void setUsername(String username){
         this.username = username;
     }
