@@ -19,4 +19,4 @@ Key Features:
 ![Image Alt](https://github.com/Assa-45/javaproject-photo-studio/blob/ae581113f4a5ea828198de054f6ecce3da51351c/screenshot/dashboard.png)
 
 
-Most GUI and interface elements in this app are inspired by: DJ-Raven (https://www.youtube.com/@LaingRaven)
+Most GUI and interface elements in this app are inspired by: DJ-Raven (youtube.com/@LaingRaven)
